@@ -1,0 +1,50 @@
+.about{
+    
+    gap: 0;
+    padding: 12%,8%;
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.about h1{
+    font-size: 60px;
+}
+.aboutcontent h2{
+    text-align: center;
+    color: white;
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.aboutcontent p{
+    color: aliceblue;
+    
+    letter-spacing: normal;
+    font-size: 40px;
+    margin: 2em 0 3em;
+}
+span{
+    color: green;
+}
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    list-style: none;
+}
+.header{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    width: 100%;
+    padding: 35%,12%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}

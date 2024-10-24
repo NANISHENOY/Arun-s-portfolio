@@ -1,0 +1,49 @@
+.Education{
+    display: flex;
+    justify-content: center;
+    background:white;
+    padding: 12% 8%;
+}
+.ed {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    
+    }
+    .ed h2
+table,th,td{
+    border: solid rgb(3, 3, 3);
+    border-collapse: collapse;
+    font-weight: 400;
+    
+}
+table.det{
+        
+        margin-left: auto;
+        margin-top: 0%;
+        margin-right: auto;
+
+    }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    list-style: none;
+    background-color:white;
+}
+.home{
+    width: 100%;
+    min-height: auto;
+    background: white;
+
+    align-items: center;
+    gap: 70em;
+    pad: 30px 12% 0;
+
+}
+span{
+    color: green;
+}
